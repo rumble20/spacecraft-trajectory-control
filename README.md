@@ -5,7 +5,7 @@ The project is structured in **progressive modules**, each addressing a differen
 
 ---
 
-## 📌 Features (Planned & Implemented)
+## Features (Planned & Implemented)
 - ✅ Vehicle dynamics simulation (2D/3D models, disturbances, constraints)  
 - 🔄 Classical control: LQR / MPC for stabilization and trajectory tracking  
 - 🔄 Trajectory optimization: minimum-fuel or time-optimal missions  
@@ -16,21 +16,7 @@ The project is structured in **progressive modules**, each addressing a differen
 
 ---
 
-## 🛠 Installation
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/autonomous-trajectory-control.git
-cd autonomous-trajectory-control
-```
-
-Install dependencies (Python 3.9+ recommended):
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Usage
+## Usage
 Each module will have a dedicated script or notebook.  
 Example (Step 1 – vehicle dynamics simulation):
 ```bash
@@ -44,7 +30,7 @@ Outputs:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 autonomous-trajectory-control/
 │
@@ -61,23 +47,14 @@ autonomous-trajectory-control/
 
 ---
 
-## 🗺 Roadmap
-1. Vehicle Dynamics ✅  
-2. Classical Control 🔄  
-3. Trajectory Optimization 🔄  
-4. Reinforcement Learning 🔄  
-5. Computer Vision 🔄  
-
----
-
-## 🎯 Goals
+## Goals
 - Demonstrate skills in **control theory, optimization, reinforcement learning, and sensor-based navigation**  
 - Provide a flexible sandbox for experimenting with **aerospace guidance & navigation concepts**  
 - Showcase integration of **classical engineering methods** with **modern AI approaches**  
 
 ---
 
-## 📖 References
+## References
 - Bryson, A.E., *Optimal Control Theory for Aerospace Applications*  
 - Sutton & Barto, *Reinforcement Learning: An Introduction*  
 - Astrom & Murray, *Feedback Systems*  
@@ -85,6 +62,6 @@ autonomous-trajectory-control/
 
 ---
 
-## 📬 Contact
-Created by [Your Name].  
+## Contact
+Created by Riccardo Legnini.  
 Feel free to connect via LinkedIn or open an issue for discussion!
